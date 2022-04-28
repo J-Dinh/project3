@@ -2,10 +2,7 @@
 title: "DataHack- Upworthy"
 author: "Megumi Low, Daniel Miao, Mohammed Mehboob, Jas Dinh"
 date: "April 9, 2022"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
+output: rmdformats::readthedown
 ---
 
 ```{r setup, include=FALSE}
